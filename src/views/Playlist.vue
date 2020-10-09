@@ -1,8 +1,5 @@
 <template>
-  <v-parallax
-    dark
-    src="https://hipertextual.com/files/2017/03/background_blemishes_dark_91678_2560x1600.jpg"
-  >
+  <v-parallax src="https://hipertextual.com/files/2017/03/background_blemishes_dark_91678_2560x1600.jpg">
     <v-row align="center" justify="center">
       <v-col class="text-center" cols="12">
         <h1 class="display-1 font-weight-thin mb-4">
